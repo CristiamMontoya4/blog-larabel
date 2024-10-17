@@ -1,4 +1,4 @@
-#Mi proyecto en Laravel
+# Mi proyecto en Laravel
 
 Para correr este proyecto, el composer necesita una versión de PHP superior a la 8.2.0
 
